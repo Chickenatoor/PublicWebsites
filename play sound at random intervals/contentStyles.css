@@ -71,6 +71,8 @@ h1 {
 
 .foot-image{
     image-rendering: pixelated;
+    cursor: grab !important;
+    cursor: -webkit-grab !important;
     image-rendering: -moz-crisp-edges;
     width: 64px;
     height: 64px;
